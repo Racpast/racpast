@@ -107,13 +107,13 @@ https://github.com/user-attachments/assets/da547307-ca8d-4789-b604-0281d31b592a
 <table><tr><td valign="top" width="33%">
 
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/1.jpg" style="margin-bottom:15px" align="center" style="width: 100%" />  
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/1.jpg" align="left" style="width: 100%;margin-bottom:15px" />  
   
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/2.png" align="left" style="width: 100%" />  
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/2.png" align="left" style="width: 100%;margin-bottom:15px" />  
   
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/3.jpg" align="left" style="width: 100%" />  
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/3.jpg" align="left" style="width: 100%;margin-bottom:15px" />  
   
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/4.png" align="left" style="width: 100%" />  
