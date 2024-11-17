@@ -91,6 +91,17 @@
 <br/>  
 
 
+## Favorite Music
+#### Sorry to share my favorite music with you in this form, because README.md **does not support** the `<audio>` tag. 😅
+<div align="center">
+
+
+https://github.com/user-attachments/assets/f8140d4d-438d-4ba2-b3f7-04fb5b0c86b9
+
+#### ハロハ/ワユ - 鹿乃
+</div>  
+
+
 ## Favorite Illustrations  
 <table><tr><td valign="top" width="33%">
 
