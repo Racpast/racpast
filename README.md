@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/profile.gif" align="center" height="" width="400" />
+<audio src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/audio/%E3%83%8F%E3%83%AD%E3%80%81%E3%83%8F%E3%83%AF%E3%83%A6%20-%20%E9%B9%BF%E4%B9%83.mp3"></audio>
 </div>  
 
 
