@@ -93,13 +93,13 @@
 
 ## Favorite Music
 #### Sorry to share my favorite music with you in this form, because README.md **does not support** the `<audio>` tag. 😅
-<div align="center">
+<div align="center" width="60%">
 
 
-https://github.com/user-attachments/assets/55013e10-71fa-4556-8433-603a4a15ac92
+https://github.com/user-attachments/assets/da547307-ca8d-4789-b604-0281d31b592a
 
 
-#### ハロハ/ワユ - 鹿乃
+### 鹿乃 - ハロ/ハワユ (Hello/How are you)
 </div>  
 
 
