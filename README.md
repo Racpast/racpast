@@ -67,11 +67,11 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/KFC%20CRAZY%20THURSDAY-V50tome-blue?logo=kfc&labelColor=darkred&color=red" style="margin-right:10px" align="center" height="" width="" />
-<a href="https://https://github.com/racpast/"><img src="https://img.shields.io/badge/Github-Racpast-blue?logo=github&color=orange" align="center" height="" width="" /></a>
+<a href="https://github.com/racpast/"><img src="https://img.shields.io/badge/Github-Racpast-blue?logo=github&color=orange" align="center" height="" width="" /></a>
 </div>  
 
 <div align="center">
-<img src="https://img.shields.io/badge/Pixiv-Racpast-blue?logo=pixiv&color=blue" style="margin-right:10px" align="center" height="" width="" />
+<a href="https://www.pixiv.net/users/90591249"><img src="https://img.shields.io/badge/Pixiv-Racpast-blue?logo=pixiv&color=blue" style="margin-right:10px" align="center" height="" width="" /></a>
 <a href="https://www.linkedin.com/in/racpast-atom-639b2b263/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&color=royalblue" align="center" height="" width="" /></a>
 </div>  
 
@@ -85,7 +85,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=racpast&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=racpast&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
