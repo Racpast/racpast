@@ -56,44 +56,24 @@
 
 ## Connect with me  
 <div align="center">
-<img src="https://img.shields.io/badge/QQ-235268680-blue?logo=tencentqq&color=blue" align="center" height="" width="" />
-</div>  
-  
-
-<div align="center">
+<img src="https://img.shields.io/badge/QQ-235268680-blue?logo=tencentqq&color=blue" style="margin-right:10px" align="center" height="" width="" />
 <img src="https://img.shields.io/badge/Wechat-racpast-blue?logo=wechat&color=green" align="center" height="" width="" />
 </div>  
-  
 
 <div align="center">
-<img src="https://img.shields.io/badge/Email-yaojun.mail%40qq.com-blue?logo=maildotru&color=purple" align="center" height="" width="" />
-</div>  
-  
-
-<div align="center">
+<img src="https://img.shields.io/badge/Email-yaojun.mail%40qq.com-blue?logo=maildotru&color=purple" style="margin-right:10px" align="center" height="" width="" />
 <img src="https://img.shields.io/badge/Email-olleebrbscfsi9%40163.com-blue?logo=maildotru&color=yellow" align="center" height="" width="" />
 </div>  
-  
 
 <div align="center">
-<img src="https://img.shields.io/badge/KFC%20CRAZY%20THURSDAY-V50tome-blue?logo=kfc&labelColor=darkred&color=red" align="center" height="" width="" />
-</div>  
-  
-
-<div align="center">
+<img src="https://img.shields.io/badge/KFC%20CRAZY%20THURSDAY-V50tome-blue?logo=kfc&labelColor=darkred&color=red" style="margin-right:10px" align="center" height="" width="" />
 <img src="https://img.shields.io/badge/Github-Racpast-blue?logo=github&color=orange" align="center" height="" width="" />
 </div>  
-  
 
 <div align="center">
-<img src="https://img.shields.io/badge/Pixiv-Racpast-blue?logo=pixiv&color=blue" align="center" height="" width="" />
-</div>  
-  
-
-<div align="center">
+<img src="https://img.shields.io/badge/Pixiv-Racpast-blue?logo=pixiv&color=blue" style="margin-right:10px" align="center" height="" width="" />
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&color=royalblue" align="center" height="" width="" />
 </div>  
-  
 
 <br/>  
 
@@ -191,4 +171,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
