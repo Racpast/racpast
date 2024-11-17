@@ -96,7 +96,8 @@
 <div align="center">
 
 
-https://github.com/user-attachments/assets/f8140d4d-438d-4ba2-b3f7-04fb5b0c86b9
+https://github.com/user-attachments/assets/55013e10-71fa-4556-8433-603a4a15ac92
+
 
 #### ハロハ/ワユ - 鹿乃
 </div>  
