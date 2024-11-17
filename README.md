@@ -91,7 +91,7 @@
 <br/>  
 
 
-## Favorite Music
+## My Favorite Music
 #### Sorry to share my favorite music with you in this form, because README.md **does not support** the `<audio>` tag. 😅
 <div align="center" width="60%">
 
@@ -103,7 +103,7 @@ https://github.com/user-attachments/assets/da547307-ca8d-4789-b604-0281d31b592a
 </div>  
 
 
-## Favorite Illustrations  
+## My Favorite Illustrations  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">
