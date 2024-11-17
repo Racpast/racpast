@@ -106,12 +106,11 @@ https://github.com/user-attachments/assets/da547307-ca8d-4789-b604-0281d31b592a
 ## My Favorite Illustrations  
 <table><tr><td valign="top" width="33%">
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/1.jpg" style="margin-bottom:10px" align="center" style="width: 100%" />
-</div>  
+
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/1.jpg" style="margin-bottom:10px" align="center" style="width: 100%" />  
   
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/2.png" align="left" style="width: 100%" />  
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/2.png" style="margin-bottom:10px" align="left" style="width: 100%" />  
   
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/3.jpg" align="left" style="width: 100%" />  
