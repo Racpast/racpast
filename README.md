@@ -65,7 +65,7 @@
 </div>  
 
 <div align="center">
-<img src="https://img.shields.io/badge/KFC%20CRAZY%20THURSDAY-V50tome-blue?logo=kfc&labelColor=darkred&color=red" style="margin-right:10px" align="center" height="" width="" />
+<a href="https://github.com/racpast#support-me"><img src="https://img.shields.io/badge/KFC%20CRAZY%20THURSDAY-V50tome-blue?logo=kfc&labelColor=darkred&color=red" style="margin-right:10px" align="center" height="" width="" /></a>
 <a href="https://github.com/racpast/" target="_blank"><img src="https://img.shields.io/badge/Github-Racpast-blue?logo=github&color=orange" align="center" height="" width="" /></a>
 </div>  
 
