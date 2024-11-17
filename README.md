@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/profile.gif" align="center" height="" width="400" />
 </div>  
-  
+
 
 ## <div align="center">I'm **Racpast** 🍻 a  full-stack developer 💻 working on **some interesting projects** ✨ from time to time 🦎</div>  
   
@@ -19,7 +19,9 @@
   
 
 <br/>  
-
+<audio controls>
+  <source src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/audio/%E3%83%8F%E3%83%AD%E3%80%81%E3%83%8F%E3%83%AF%E3%83%A6%20-%20%E9%B9%BF%E4%B9%83.mp3" type="audio/mpeg">
+</audio>
 
 ## My Skill Set  
 <div align="center">  
@@ -85,7 +87,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=racpast&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=racpast&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
