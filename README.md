@@ -5,7 +5,9 @@
 
 ## <div align="center">I'm **Racpast** 🍻 a  full-stack developer 💻 working on **some interesting projects** ✨ from time to time 🦎</div>  
 
-  
+- #### 📅 Welcome to take a look at my latest project [**Pixiv-Nginx-GUI**](https://github.com/racpast/Pixiv-Nginx-GUI), which has been **preliminatively tested**!
+
+
 - #### 💬 I am currently working on the ongoing development and updating of [**ZkExperimentSingle**](https://github.com/racpast/ZkExperimentSingle), and the project received **wide acclaim** in offline tests.  
   
 
