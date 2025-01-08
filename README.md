@@ -73,7 +73,6 @@
 
 <div align="center">
 <a href="https://www.pixiv.net/users/90591249" target="_blank"><img src="https://img.shields.io/badge/Pixiv-Racpast-blue?logo=pixiv&color=blue" style="margin-right:10px" align="center" height="" width="" /></a>
-<a href="https://www.linkedin.com/in/racpast-atom-639b2b263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&color=royalblue" align="center" height="" width="" /></a>
 </div>  
 
 <br/>  
