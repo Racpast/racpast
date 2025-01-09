@@ -57,7 +57,7 @@
 
 ## Connect with me  
 <div align="center">
-<img src="https://img.shields.io/badge/QQ-235268680-blue?logo=tencentqq&color=blue" style="margin-right:10px" align="center" height="" width="" />
+<img src="https://img.shields.io/badge/QQ-235268680-blue?logo=qq&color=blue" style="margin-right:10px" align="center" height="" width="" />
 <img src="https://img.shields.io/badge/Wechat-racpast-blue?logo=wechat&color=green" align="center" height="" width="" />
 </div>  
 
@@ -73,6 +73,7 @@
 
 <div align="center">
 <a href="https://www.pixiv.net/users/90591249" target="_blank"><img src="https://img.shields.io/badge/Pixiv-Racpast-blue?logo=pixiv&color=blue" style="margin-right:10px" align="center" height="" width="" /></a>
+<a href="https://dev.to/racpast" target="_blank"><img src="https://img.shields.io/badge/DEV-Racpast-black?logo=dev.to&color=black" style="margin-right:10px" align="center" height="" width="" /></a>
 </div>  
 
 <br/>  
