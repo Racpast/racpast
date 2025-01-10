@@ -68,11 +68,12 @@
 
 <div align="center">
 <a href="https://github.com/racpast#support-me"><img src="https://img.shields.io/badge/KFC%20CRAZY%20THURSDAY-V50tome-blue?logo=kfc&labelColor=darkred&color=red" style="margin-right:10px" align="center" height="" width="" /></a>
-<a href="https://github.com/racpast/" target="_blank"><img src="https://img.shields.io/badge/Github-Racpast-blue?logo=github&color=orange" align="center" height="" width="" /></a>
+<a href="https://www.pixiv.net/users/90591249" target="_blank"><img src="https://img.shields.io/badge/Pixiv-Racpast-blue?logo=pixiv&color=blue" style="margin-right:10px" align="center" height="" width="" /></a>
 </div>  
 
 <div align="center">
-<a href="https://www.pixiv.net/users/90591249" target="_blank"><img src="https://img.shields.io/badge/Pixiv-Racpast-blue?logo=pixiv&color=blue" style="margin-right:10px" align="center" height="" width="" /></a>
+<a href="https://github.com/racpast/" target="_blank"><img src="https://img.shields.io/badge/GitHub-Racpast-blue?logo=github&color=black" align="center" height="" width="" /></a>
+<a href="https://gitlab.com/racpast/" target="_blank"><img src="https://img.shields.io/badge/GitLab-Racpast-blue?logo=GitLab&color=orange" align="center" height="" width="" /></a>
 <a href="https://dev.to/racpast" target="_blank"><img src="https://img.shields.io/badge/DEV-Racpast-black?logo=dev.to&color=black" style="margin-right:10px" align="center" height="" width="" /></a>
 </div>  
 
