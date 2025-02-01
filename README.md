@@ -63,6 +63,7 @@
 
 <div align="center">
 <a href="mailto:yaojun.mail@qq.com"><img src="https://img.shields.io/badge/Email-yaojun.mail%40qq.com-blue?logo=maildotru&color=purple" style="margin-right:10px" align="center" height="" width="" /></a>
+<a href="mailto:racpast@gmail.com"><img src="https://img.shields.io/badge/Email-racpast%40gmail.com-red?logo=maildotru&color=red" align="center" height="" width="" /></a>
 <a href="mailto:olleebrbscfsi9@163.com"><img src="https://img.shields.io/badge/Email-olleebrbscfsi9%40163.com-blue?logo=maildotru&color=yellow" align="center" height="" width="" /></a>
 </div>  
 
@@ -77,6 +78,11 @@
 <a href="https://dev.to/racpast" target="_blank"><img src="https://img.shields.io/badge/DEV-Racpast-black?logo=dev.to&color=black" style="margin-right:10px" align="center" height="" width="" /></a>
 </div>  
 
+<div align="center">
+<a href="https://discord.com/users/racpast" target="_blank"><img src="https://img.shields.io/badge/Discord-Racpast-purple?logo=discord&color=purple" align="center" height="" width="" /></a>
+<a href="https://x.com/racpast" target="_blank"><img src="https://img.shields.io/badge/Twitter-Racpast-blue?logo=x&color=black" align="center" height="" width="" /></a>
+<a href="https://www.facebook.com/61572422743993" target="_blank"><img src="https://img.shields.io/badge/Facebook-Racpast-black?logo=facebook&color=blue" style="margin-right:10px" align="center" height="" width="" /></a>
+</div>
 <br/>  
 
 
