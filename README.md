@@ -64,7 +64,7 @@
 <div align="center">
 <a href="mailto:yaojun.mail@qq.com"><img src="https://img.shields.io/badge/Email-yaojun.mail%40qq.com-blue?logo=maildotru&color=purple" style="margin-right:10px" align="center" height="" width="" /></a>
 <a href="mailto:racpast@gmail.com"><img src="https://img.shields.io/badge/Email-racpast%40gmail.com-red?logo=maildotru&color=red" align="center" height="" width="" /></a>
-<a href="mailto:olleebrbscfsi9@163.com"><img src="https://img.shields.io/badge/Email-olleebrbscfsi9%40163.com-blue?logo=maildotru&color=yellow" align="center" height="" width="" /></a>
+<a href="mailto:racpast@outlook.com"><img src="https://img.shields.io/badge/Email-racpast%40outlook.com-blue?logo=maildotru&color=yellow" align="center" height="" width="" /></a>
 </div>  
 
 <div align="center">
