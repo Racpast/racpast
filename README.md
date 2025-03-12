@@ -81,7 +81,6 @@
 <div align="center">
 <a href="https://discord.com/users/1214336466927222815" target="_blank"><img src="https://img.shields.io/badge/Discord-Racpast-purple?logo=discord&color=purple" align="center" height="" width="" /></a>
 <a href="https://x.com/racpast" target="_blank"><img src="https://img.shields.io/badge/Twitter-Racpast-blue?logo=x&color=black" align="center" height="" width="" /></a>
-<a href="https://www.facebook.com/61572422743993" target="_blank"><img src="https://img.shields.io/badge/Facebook-Racpast-black?logo=facebook&color=blue" style="margin-right:10px" align="center" height="" width="" /></a>
 </div>
 <br/>  
 
