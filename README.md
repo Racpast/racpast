@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/profile2.gif" align="center" height="" width="400" />
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/profile2.gif" align="center" height="" width="250" />
 </div>  
 
 
