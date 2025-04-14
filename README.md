@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer working on interesti
 <div align="center">
 
 
-[![SNIBypassGUI](https://github-readme-stats.vercel.app/api/pin/?username=racpast&repo=SNIBypassGUI)](https://github.com/racpast/SNIBypassGUI)
+[![SNIBypassGUI](https://github-readme-stats.vercel.app/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue)](https://github.com/racpast/SNIBypassGUI)
 </div>
 
 ### 🤝 Contributions
@@ -22,7 +22,7 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 <div align="center">
 
 
-[![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true)](https://github.com/mirai-mamori/Sakurairo)
+[![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue)](https://github.com/mirai-mamori/Sakurairo)
 </div>
 
 ### 🌱 Currently Learning
@@ -95,16 +95,10 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 
 ## 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=racpast&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/racpast">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=racpast&show_icons=true&count_private=true&hide_border=true&hide=contribs" />
-</a>
-<a href="https://github.com/racpast">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racpast&hide_border=true&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=racpast&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
 </a>
 
 ## 🎶 My Favorite Music
