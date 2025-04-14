@@ -94,14 +94,12 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 </div>
 
 ## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/racpast">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=racpast&show_icons=true&count_private=true&hide_border=true&hide=contribs" />
-  </a>
-  <a href="https://github.com/racpast">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racpast&hide_border=true&layout=compact&card_width=320" />
-  </a>
-</div>
+<a href="https://github.com/racpast">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=racpast&show_icons=true&count_private=true&hide_border=true&hide=contribs" />
+</a>
+<a href="https://github.com/racpast">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racpast&hide_border=true&layout=compact&card_width=320" />
+</a>
 
 ## 🎶 My Favorite Music
 <div align="center">
