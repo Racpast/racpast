@@ -97,7 +97,7 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 <table align="center">
    <tr>
      <td valign="center" height="70%">
-       <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=racpast&theme=github_dark_dimmed" style="width: 100%" /></div>
+       <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=racpast&theme=github_dark_dimmed&count_private=true&hide=contribs" style="width: 100%" /></div>
      </td>
      <td valign="center" height="70%">
        <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=racpast&layout=compact&langs_count=6&theme=github_dark_dimmed" style="width: 100%" /></div>
