@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer working on interesti
 <div align="center">
 
 
-[![SNIBypassGUI](https://github-readme-stats.vercel.app/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue)](https://github.com/racpast/SNIBypassGUI)
+[![SNIBypassGUI](https://github-readme-stats.vercel.app/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue&v=1)](https://github.com/racpast/SNIBypassGUI)
 </div>
 
 ### 🤝 Contributions
@@ -22,7 +22,7 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 <div align="center">
 
 
-[![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue)](https://github.com/mirai-mamori/Sakurairo)
+[![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue&v=1)](https://github.com/mirai-mamori/Sakurairo)
 </div>
 
 ### 🌱 Currently Learning
