@@ -77,7 +77,8 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 </div>
 
 <div align="center">
-<a href="https://github.com/racpast#support-me"><img src="https://img.shields.io/badge/KFC%20CRAZY%20THURSDAY-V50tome-blue?logo=kfc&labelColor=darkred&color=red" style="margin-right:10px" align="center" height="" width="" /></a>
+<a href="mailto:racpast@126.com"><img src="https://img.shields.io/badge/Email-racpast%40126.com-blue?logo=maildotru&color=darkgreen" style="margin-right:10px" align="center" height="" width="" /></a>
+<a href="mailto:racpast@163.com"><img src="https://img.shields.io/badge/Email-racpast%40163.com-red?logo=maildotru&color=darkred" align="center" height="" width="" /></a>
 <a href="https://www.pixiv.net/users/90591249" target="_blank"><img src="https://img.shields.io/badge/Pixiv-90591249-blue?logo=pixiv&color=blue" style="margin-right:10px" align="center" height="" width="" /></a>
 </div>
 
