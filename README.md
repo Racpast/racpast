@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer working on interesti
 <div align="center">
 
 
-[![SNIBypassGUI](https://github-readme-stats.vercel.app/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue&v=3)](https://github.com/racpast/SNIBypassGUI)
+[![SNIBypassGUI](https://github-readme-stats.vercel.app/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue&v=4)](https://github.com/racpast/SNIBypassGUI)
 </div>
 
 ### 🤝 Contributions
@@ -22,7 +22,7 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 <div align="center">
 
 
-[![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue&v=3)](https://github.com/mirai-mamori/Sakurairo)
+[![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue&v=4)](https://github.com/mirai-mamori/Sakurairo)
 </div>
 
 ### 🌱 Currently Learning
@@ -96,19 +96,30 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 
 ## 📊 GitHub Stats
 <table align="center">
-   <tr>
-     <td valign="center" height="70%">
-       <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=racpast&theme=github_dark_dimmed&count_private=true&hide=contribs&v=2" style="width: 100%" /></div>
-     </td>
-     <td valign="center" height="70%">
-       <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=racpast&layout=compact&langs_count=6&theme=github_dark_dimmed&v=2" style="width: 100%" /></div>
-     </td>
-   </tr>
- </table>
+  <tr>
+    <td colspan="2" align="center">
+      <div align="center">
+        <img src="https://count.getloli.com/@racpast?name=racpast&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=0" style="width: 45%" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="center" height="70%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=racpast&theme=github_dark_dimmed&count_private=true&hide=contribs&v=3" style="width: 100%" />
+      </div>
+    </td>
+    <td valign="center" height="70%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=racpast&layout=compact&langs_count=6&theme=github_dark_dimmed&v=3" style="width: 100%" />
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 ## 🎶 My Favorite Music
 <div align="center">
-
 <table>
   <tr>
     <td width="25%" valign="bottom">
@@ -141,7 +152,6 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
     </td>
   </tr>
 </table>
-
 </div>
 
 ## 🎨 My Favorite Illustrations
