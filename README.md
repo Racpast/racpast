@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer working on interesti
 <div align="center">
 
 
-[![SNIBypassGUI](https://github-readme-stats.vercel.app/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue&v=6)](https://github.com/racpast/SNIBypassGUI)
+[![SNIBypassGUI](https://github-readme-stats.vercel.app/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue&v=7)](https://github.com/racpast/SNIBypassGUI)
 </div>
 
 ### 🤝 Contributions
@@ -22,7 +22,7 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 <div align="center">
 
 
-[![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue&v=6)](https://github.com/mirai-mamori/Sakurairo)
+[![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue&v=7)](https://github.com/mirai-mamori/Sakurairo)
 </div>
 
 ### 🌱 Currently Learning
@@ -106,12 +106,12 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
   <tr>
     <td valign="center" height="70%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=racpast&theme=github_dark_dimmed&count_private=true&hide=contribs&v=6" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=racpast&theme=github_dark_dimmed&count_private=true&hide=contribs&v=7" style="width: 100%" />
       </div>
     </td>
     <td valign="center" height="70%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=racpast&layout=compact&langs_count=6&theme=github_dark_dimmed&v=6" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=racpast&layout=compact&langs_count=6&theme=github_dark_dimmed&v=7" style="width: 100%" />
       </div>
     </td>
   </tr>
