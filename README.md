@@ -284,31 +284,6 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 
 ## ❤️ Support Me
 <div align="center">
-	<table>
-		<tr>
-			<td width="50%" valign="bottom">
-				<div align="center">
-					<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/afdiancode.png" align="center" height="" width="200" />
-				</div>
-			</td>
-			<td width="50%" valign="bottom">
-				<div align="center">
-					<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/wechatpay.png" align="center" height="" width="200" />
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td width="50%" valign="bottom">
-				<div align="center">
-					<strong>AFDIAN<strong>
-				</div>
-			</td>
-			<td width="50%" valign="bottom">
-				<div align="center">
-					<strong>Wechat<strong>
-				</div>
-			</td>
-		</tr>
-	</table>
+	<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/support.gif" align="center" />
 </div>
 
