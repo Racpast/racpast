@@ -164,27 +164,27 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/2.png" align="center" style="width: 100%" /><br/>
 
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/3.jpg" align="center" style="width: 100%" /><br/>
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/3.gif" align="center" style="width: 100%" /><br/>
 
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/4.png" align="center" style="width: 100%" /><br/>
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/4.gif" align="center" style="width: 100%" /><br/>
 
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/5.jpg" align="center" style="width: 100%" /><br/>
 
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/6.png" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/6.gif" align="center" style="width: 100%" />
 
 
 </td><td valign="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/7.jpg" align="center" style="width: 100%" /><br/>
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/7.gif" align="center" style="width: 100%" /><br/>
 
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/8.png" align="center" style="width: 100%" /><br/>
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/8.gif" align="center" style="width: 100%" /><br/>
 
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/9.jpg" align="center" style="width: 100%" /><br/>
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/9.gif" align="center" style="width: 100%" /><br/>
 
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/10.jpg" align="center" style="width: 100%" /><br/>
@@ -193,7 +193,7 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/11.jpg" align="center" style="width: 100%" /><br/>
 
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/12.jpg" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/12.gif" align="center" style="width: 100%" />
 
 
 </td><td valign="center" width="33%">
@@ -210,10 +210,10 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/16.jpg" align="center" style="width: 100%" /><br/>
 
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/17.jpg" align="center" style="width: 100%" /><br/>
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/17.gif" align="center" style="width: 100%" /><br/>
 
 
-<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/18.png" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/18.gif" align="center" style="width: 100%" />
 
 
 </td></tr></table>
