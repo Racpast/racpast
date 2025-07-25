@@ -160,16 +160,16 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
     </td>
     <td width="25%" valign="bottom">
       <div align="center">
-        <strong>花月夜</strong>
-        <p>瑶山百霊、Yonder Voice</p>
-        <p>https://github.com/user-attachments/assets/82b2ad57-60fc-462b-b8bb-64c34ff04649</p>
+        <strong>DAYBREAK FRONTLINE</strong>
+        <p>鹿乃</p>
+        <p>https://github.com/user-attachments/assets/a3d97a55-3024-4fa7-9a7c-d3dda83a0243</p>
       </div>
     </td>
     <td width="25%" valign="bottom">
       <div align="center">
-        <strong>ははうさぎ</strong>
-        <p>森羅万象</p>
-        <p>https://github.com/user-attachments/assets/dc84c875-72b8-49be-be38-4d520970efef</p>
+        <strong>For Riddles, for Wonders</strong>
+        <p>HOYO-MiX</p>
+        <p>https://github.com/user-attachments/assets/01f15396-7a5c-4c4e-ba3e-5e4681a2da2f</p>
       </div>
     </td>
     <td width="25%" valign="bottom">
