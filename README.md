@@ -117,7 +117,6 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
   </tr>
 </table>
 
-
 ## 🎶 My Favorite Music
 <div align="center">
 <table>
@@ -184,69 +183,74 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 </table>
 </div>
 
-## 🎨 My Favorite Illustrations
-<table><tr><td valign="center" width="33%">
+## 🥂 幻想郷で一緒に「乾杯」しよう！
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="bottom">
+      <div align="center">
+        <strong>【東方ヴォーカルPV】ははうさぎ（Vo：あよ） 【森羅万象公式】</strong>
+        <a href="https://www.youtube.com/watch?v=o3YeC-LFNGo"><p>Watch on YouTube</p></a>
+        <p>https://github.com/user-attachments/assets/f8aa282e-5481-4220-93cd-9fed4e0807fa</p>
+      </div>
+    </td>
+    <td width="50%" valign="bottom">
+      <div align="center">
+        <strong>【東方Vocal PV】 花月夜 「Yonder Voice」【Subbed】</strong>
+        <a href="https://www.youtube.com/watch?v=7LthTzz26Hc"><p>Watch on YouTube</p></a>
+        <p>https://github.com/user-attachments/assets/f8cf4450-19a8-44fa-bee3-85c9e678e52f</p>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
 
+## 🎨 My Favorite Illustrations
+<div align="center">
+<table><tr><td valign="center" width="33%">
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/1.jpg" align="center" style="width: 100%" /><br/>
 
-
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/2.png" align="center" style="width: 100%" /><br/>
-
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/3.gif" align="center" style="width: 100%" /><br/>
 
-
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/4.gif" align="center" style="width: 100%" /><br/>
-
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/5.jpg" align="center" style="width: 100%" /><br/>
 
-
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/6.gif" align="center" style="width: 100%" />
-
 
 </td><td valign="center" width="33%">
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/7.gif" align="center" style="width: 100%" /><br/>
 
-
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/8.gif" align="center" style="width: 100%" /><br/>
-
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/9.gif" align="center" style="width: 100%" /><br/>
 
-
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/10.jpg" align="center" style="width: 100%" /><br/>
-
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/11.jpg" align="center" style="width: 100%" /><br/>
 
-
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/12.gif" align="center" style="width: 100%" />
-
 
 </td><td valign="center" width="33%">
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/13.jpg" align="center" style="width: 100%" /><br/>
 
-
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/14.jpg" align="center" style="width: 100%" /><br/>
-
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/15.jpg" align="center" style="width: 100%" /><br/>
 
-
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/16.jpg" align="center" style="width: 100%" /><br/>
-
 
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/17.gif" align="center" style="width: 100%" /><br/>
 
-
 <img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/img/18.gif" align="center" style="width: 100%" />
 
-
 </td></tr></table>
+</div>
 
 ## ❤️ Support Me
 <div align="center">
