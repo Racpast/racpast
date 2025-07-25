@@ -124,7 +124,7 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
   <tr>
     <td width="25%" valign="bottom">
       <div align="center">
-        <strong>ハロ/ハワユ (Hello/How are you)</strong>
+        <strong>ハロ/ハワユ</strong>
         <p>鹿乃</p>
         <p>https://github.com/user-attachments/assets/cb607e27-e684-4146-b162-e6367928d6a8</p>
       </div>
@@ -138,9 +138,9 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
     </td>
     <td width="25%" valign="bottom">
       <div align="center">
-        <strong>一笑懸命</strong>
-        <p>遊助</p>
-        <p>https://github.com/user-attachments/assets/1fe178d2-9dc9-4980-91d7-f524cd6a0e61</p>
+        <strong>リテラチュア</strong>
+        <p>上田麗奈</p>
+        <p>https://github.com/user-attachments/assets/2c1506cb-80f3-4726-8deb-f19116df741e</p>
       </div>
     </td>
     <td width="25%" valign="bottom">
@@ -148,6 +148,36 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
         <strong>Lockdown (feat. NEONA)</strong>
         <p>PIKASONIC, Tatsunoshin, NEONA</p>
         <p>https://github.com/user-attachments/assets/a171d705-ac65-45b7-9a64-0fdd42a716a6</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="bottom">
+      <div align="center">
+        <strong>ヨスズメロディハート</strong>
+        <p>森羅万象</p>
+        <p>https://github.com/user-attachments/assets/5fc42977-e158-4b6f-a4d2-5d51a9244a20</p>
+      </div>
+    </td>
+    <td width="25%" valign="bottom">
+      <div align="center">
+        <strong>花月夜</strong>
+        <p>瑶山百霊、Yonder Voice</p>
+        <p>https://github.com/user-attachments/assets/82b2ad57-60fc-462b-b8bb-64c34ff04649</p>
+      </div>
+    </td>
+    <td width="25%" valign="bottom">
+      <div align="center">
+        <strong>ははうさぎ</strong>
+        <p>森羅万象</p>
+        <p>https://github.com/user-attachments/assets/dc84c875-72b8-49be-be38-4d520970efef</p>
+      </div>
+    </td>
+    <td width="25%" valign="bottom">
+      <div align="center">
+        <strong>独角</strong>
+        <p>UnicornPhantom</p>
+        <p>https://github.com/user-attachments/assets/25f4926d-8e17-42b3-adbf-d751f005d00c</p>
       </div>
     </td>
   </tr>
