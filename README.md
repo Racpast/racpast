@@ -30,7 +30,7 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 - **Full-stack development** (from frontend to backend), **cross-platform client-side solutions** (C#, C++, Java, Python), and **CI/CD best practices**.
 
 ### ⚡ Fun Fact
-- I **love** **ACG culture** 🥰 and **advanced mathematics**.
+- I believe that **elegant code is a form of art**, just like my favorite ACG works. I find the same kind of joy in both **advanced mathematics** and creating a perfect software architecture.
 
 ## 🚀 My Skills
 <table align="center">
