@@ -24,10 +24,10 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 </div>
 
 ### 🌱 Currently Learning
-- **Linux** and **Reverse Engineering**
+- **Compiler principles**, **OS kernels**, and **high-performance network communication**.
 
 ### 💬 Ask me about
-- Desktop development and related **technologies**.
+- **Full-stack development** (from frontend to backend), **cross-platform client-side solutions** (C#, C++, Java, Python), and **CI/CD best practices**.
 
 ### ⚡ Fun Fact
 - I **love** **ACG culture** 🥰 and **advanced mathematics**.
