@@ -23,6 +23,13 @@ A WordPress theme that is built with AI-assisted reading features, colorful, use
 [![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue&v=10)](https://github.com/mirai-mamori/Sakurairo)
 </div>
 
+- **[q](https://github.com/natesales/q)**: About
+A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
+<div align="center">
+
+[![q](https://github-readme-stats.vercel.app/api/pin/?username=natesales&repo=q&show_owner=true&theme=vue&v=10)](https://github.com/natesales/q)
+</div>
+
 ### 🌱 Currently Learning
 - **Compiler principles**, **OS kernels**, and **high-performance network communication**.
 
