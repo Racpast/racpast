@@ -16,14 +16,14 @@ Welcome to my GitHub! I'm a passionate full-stack developer working on interesti
 
 ### 🤝 Contributions
 I also contribute to several open-source projects! If you're interested, feel free to check out the following:
-- **[Sakurairo](https://github.com/mirai-mamori/Sakurairo)**: About
+- **[Sakurairo](https://github.com/mirai-mamori/Sakurairo)**: 
 A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.
 <div align="center">
 
 [![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue&v=10)](https://github.com/mirai-mamori/Sakurairo)
 </div>
 
-- **[q](https://github.com/natesales/q)**: About
+- **[q](https://github.com/natesales/q)**: 
 A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 <div align="center">
 
